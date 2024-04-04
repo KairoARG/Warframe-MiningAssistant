@@ -2,7 +2,9 @@
 
 **Semi**-automated [mining](https://warframe.fandom.com/wiki/Mining) assistant for the video game [Warframe](https://en.wikipedia.org/wiki/Warframe), which aims at stopping the mining process (i.e., releasing`LMB`) at the most accurate timing.
 
-> **Note:** using any unauthorized third-party tool in Warframe could be considered as a violation of [EULA(2.f.)](https://www.warframe.com/eula).
+> **Development of this project have ceased, as it was largely driven by personal enthusiasm, and I have not played Warframe for quite a few years :(**.
+
+> **Note:** Utilizing unauthorized third-party tools in Warframe may constitute a breach of the [EULA(2.f.)](https://www.warframe.com/eula).
 
 ## Demo ([demo gif](https://github.com/EricZhu-42/Warframe-MiningAssistant/blob/main/misc/example.gif))
 
